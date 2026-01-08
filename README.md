@@ -1,3 +1,18 @@
+# 🖤🛣️ BlackRoad Enhanced Edition
+
+> **This is a BlackRoad OS, Inc. managed fork**
+> Customized for digital sovereignty and zero vendor lock-in
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS%2C%20Inc.-FF1D6C?style=for-the-badge)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-F5A623?style=for-the-badge)](LICENSE)
+[![Managed](https://img.shields.io/badge/Managed%20By-Alexa%20Amundson-2979FF?style=for-the-badge)](https://github.com/blackboxprogramming)
+
+**[📖 BlackRoad Documentation](BLACKROAD.md)** | **[🚀 Deployment Guide](DEPLOYMENT.md)** | **[📜 License](LICENSE)**
+
+---
+
+# Original Project Documentation
+
 # Falco
 
 [![Latest release](https://img.shields.io/github/v/release/falcosecurity/falco?style=for-the-badge)](https://github.com/falcosecurity/falco/releases/latest) [![Supported Architectures](https://img.shields.io/badge/ARCHS-x86__64%7Caarch64-blueviolet?style=for-the-badge)](https://github.com/falcosecurity/falco/releases/latest) [![License](https://img.shields.io/github/license/falcosecurity/falco?style=for-the-badge)](COPYING) [![Docs](https://img.shields.io/badge/docs-latest-green.svg?style=for-the-badge)](https://falco.org/docs)
